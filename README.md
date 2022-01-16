@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"></img>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/C%23-5F4E9E?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=EBEBEB"></img>
+<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=ED1D25"></img>
 
 
 [![Çağan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caganert&theme=blue-green&hide=python&layout=compact&show_icons=true)](https://github.com/caganert/github-readme-stats)
