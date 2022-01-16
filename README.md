@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998"></img>
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-<img src="https://img.shields.io/badge/C%23-5F4E9E?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=EBEBEB"></img>
 <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=ED1D25"></img>
 
