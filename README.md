@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+ÇAĞAN.;I+AM+A+SOWFTWARE+DEVELOPER+EAGER+TO+LEARN.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+ÇAĞAN.;I+AM+A+SOFTWARE+DEVELOPER+EAGER+TO+LEARN.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
 
 <h2>Languages</h2>
