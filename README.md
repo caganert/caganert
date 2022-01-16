@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 [![Çağan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caganert&theme=blue-green&hide=python&layout=compact&show_icons=true)](https://github.com/caganert/github-readme-stats)
 
+<h2>Stats</h2>
 
 ![Çağan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caganert&show_icons=true&theme=blue-green)
 
