@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <a href="https://github.com/caganert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caganert&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganert&layout=compact&langs_count=7&theme=dark"/>
 <!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=caganert&theme=xcode"/> -->
    <img alt="caganert's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caganert&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
  
