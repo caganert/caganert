@@ -45,3 +45,13 @@ Here are some ideas to get you started:
    <img alt="caganert's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caganert&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" />
  
   </a></div>
+body{
+    background-image: url('https://c.tenor.com/cKgOapMuyWcAAAAC/coding-developer-code.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
