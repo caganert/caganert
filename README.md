@@ -1,4 +1,8 @@
-<h2>
+<div align="center">
+  
+</div>
+
+<h2 align="center">
 Hi there 👋
 </h2>
 
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.instagram.com/caganert/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -29,9 +33,14 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/caganert?style=social)](https://github.com/caganert?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/caganert?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=caganert.visitor-badge)](https://GitHub.com/caganert/StrapDown.js/stargazers/)
+
+<div align="center">
+
+  <a href="">[![GitHub followers](https://img.shields.io/github/followers/caganert?style=social)](https://github.com/caganert?tab=followers)</a>
+  <a href="">![GitHub stars](https://img.shields.io/github/stars/caganert?style=social)</a>
+  <a href="">[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=caganert.visitor-badge)](https://GitHub.com/caganert/StrapDown.js/stargazers/)</a>
+
+</div>
 
 
 
@@ -54,7 +63,6 @@ Here are some ideas to get you started:
 
 
 <div align="center">
- <!--<img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=caganert&theme=xcode"/> -->
    <img alt="caganert's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caganert&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true">
  
   </a></div>
