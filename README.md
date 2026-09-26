@@ -21,19 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/caganert/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/caganert">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://open.spotify.com/user/2agnecayc55uie18m927ynekb?si=61600cadd31c4ece">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</div>
-
-
 <div align="center">
 
   <a href="">[![GitHub followers](https://img.shields.io/github/followers/caganert?style=social)](https://github.com/caganert?tab=followers)</a>
